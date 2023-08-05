@@ -1,7 +1,6 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fcolorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg&tbnid=HTOAZgy11a5FTM&vet=12ahUKEwjv_KmZysaAAxW9pukKHVnLByIQMygGegUIARCTAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcolorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm&docid=c3rbYZf4ncijKM&w=626&h=280&q=coding%20banner%20images&ved=2ahUKEwjv_KmZysaAAxW9pukKHVnLByIQMygGegUIARCTAg)]
+
 <h1 align="center">Hello 👋, I'm Akib Mahmud</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F2FM1TT9%2Fanimation-of-human-brain-scope-scanning-and-binary-coding-on-black-background-2FM1TT9.jpg&tbnid=LIygHIBDrrWjZM&vet=12ahUKEwi0yYfJx8aAAxV3k2MGHZ_DAkQQMygbegUIARC7Ag..i&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fanimation-of-human-brain-scope-scanning-and-binary-coding-on-black-background-image425383401.html&docid=xEwqi5I7o0feuM&w=1300&h=770&q=animated%20coding%20images&hl=en&ved=2ahUKEwi0yYfJx8aAAxV3k2MGHZ_DAkQQMygbegUIARC7Ag”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud-akib&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-akib" /> </p>
 
