@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Akib Mahmud</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A passionate Software QA Automation Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud-akib&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-akib" /> </p>
 
@@ -8,13 +8,15 @@
 
 - 🔭 I’m currently studying Computer Science Engineering at **Daffodil International University**
 
-- 🌱 I’m currently learning **C++, Python, CCNA etc.**
+- 🌱 I’m Proficient in **SQA (Selenium), C++, Python, CCNA.**
 
-- 💬 Ask me about **programming related questions.**
+- 🌱 I’m currently learning **SQA (PlayWright, Cypress)**
 
-- 📫 How to reach me **akibmahmudabcd@gmail.com**
+- 💬 Ask me about **Software QA Automation related questions.**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ooTqEOXeLjyKDkavAokwedzA3HMHDKAd/edit?usp=sharing&ouid=111103310538284458329&rtpof=true&sd=true](https://docs.google.com/document/d/1ooTqEOXeLjyKDkavAokwedzA3HMHDKAd/edit?usp=sharing&ouid=111103310538284458329&rtpof=true&sd=true)
+- 📫 How to reach me **mahmud15-4881@diu.edu.bd , akibmahmudabcd@gmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1-akHWQHBtpyT9VqwYD5f57jJYMQfmCk8/view?usp=sharing
 
 - ⚡ Fun fact **I am free minded**
 
