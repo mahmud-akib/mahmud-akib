@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mahmud15-4881@diu.edu.bd , akibmahmudabcd@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1-akHWQHBtpyT9VqwYD5f57jJYMQfmCk8/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1OkCPU04yN2NSeo_q4jCIzDW-g_JVwjAG/view?usp=sharing
 
 - ⚡ Fun fact **I am free minded**
 
