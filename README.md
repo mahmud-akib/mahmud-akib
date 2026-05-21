@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/akibmahmud007" target="blank"><img src="https://img.shields.io/twitter/follow/akibmahmud007?logo=twitter&style=for-the-badge" alt="akibmahmud007" /></a> </p>
 
-- 🔭 I have completed B.Sc. in Computer Science Engineering at **Daffodil International University**
+- 🔭 I have completed B.Sc. in Computer Science and Engineering at **Daffodil International University**
 
 - 🌱 I’m Proficient in **SQA (Selenium), C++, Python, CCNA.**
 
