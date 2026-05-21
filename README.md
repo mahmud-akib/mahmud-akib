@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Software QA Automation related questions.**
 
-- 📫 How to reach me **mahmud15-4881@diu.edu.bd , akibmahmudabcd@gmail.com**
+- 📫 How to reach me **mahmud15-4881@diu.edu.bd , sqa.akibmahmud@gmail.com, akibmahmudabcd@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1GUbfk65W-hI0ApSBnSfry5qsa9TN8e_t/view?usp=sharing
 
